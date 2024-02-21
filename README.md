@@ -1,4 +1,12 @@
-### Hi there 👋
+# Halo semua! 
+
+Perkenalkan nama saya **Efendy Wiranatha Masuli**.<br>
+
+Saya adalah seorang mahasiswa di Universitas Hasanuddin.<br>
+
+Jurusan Sistem Informasi.<br>
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin]((https://www.linkedin.com/in/efendy-masuli/))ku ya.
 
 <!--
 **Efendycbs/Efendycbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
