@@ -8,6 +8,12 @@ Jurusan Sistem Informasi.<br>
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin]((https://www.linkedin.com/in/efendy-masuli/))ku ya.
 
+<p align="left">
+<a href="https://github.com/Efendycbs">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Efendycbs&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Efendycbs&layout=compact&theme=algolia"/>
+</a>
+</p>
 <!--
 **Efendycbs/Efendycbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
